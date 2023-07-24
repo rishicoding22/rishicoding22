@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rishicoding22 AKA Saptarshi Patra
 - 👀 I’m interested in Problem Solving
 - 🌱 I’m currently learning Industry Standard Development Protocols
-- 💞️ I’m open to collaborate on Open Source projects
+- 💞️ I’m open to collaborate on good Open Source Projects
 - 📫 How to reach me -> saptarshi@gramheet.com
 
 <!---
